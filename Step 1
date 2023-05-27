@@ -1,14 +1,4 @@
-## ART-PY
-## python language
-
---------
-generative art model gen
-library to draw antialiased lines
-library to draw regenative lines
-library to draw regenative squares
-
-
-
 FIRST STEP
 ## install specific library packages
+
 pip install matplotlib numpy TensorFlow tensorflow_hub pillow
